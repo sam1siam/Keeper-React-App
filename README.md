@@ -1,3 +1,7 @@
+A To-Do List Web App
+Similar to Google's Keep App. 
+Built with React
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
